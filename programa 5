@@ -1,0 +1,92 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "LNry0MGR3aWG",
+        "outputId": "69aa2efc-56f8-4428-ce9d-a74105c810cb"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "naomi\n",
+            "241690228-2\n",
+            "16\n",
+            "femenino\n",
+            "ciencias de datos e inteligencia artificial\n",
+            "311 255 11 05\n",
+            "la escondida calle trabajo #7\n",
+            "3\n",
+            "4 de febrero\n"
+          ]
+        }
+      ],
+      "source": [
+        "maestro={\n",
+        "    'nombre':'naomi',\n",
+        "    'matricula':'241690228-2',\n",
+        "    'edad':'16',\n",
+        "    'sexo':'femenino',\n",
+        "    'carrera':'ciencias de datos e inteligencia artificial',\n",
+        "    'telefono':'311 255 11 05',\n",
+        "    'domicilio':'la escondida calle trabajo #7',\n",
+        "    'semestre':'3',\n",
+        "    'fecha de cumple anos':'4 de febrero'\n",
+        "\n",
+        "}\n",
+        "print(maestro['nombre'])\n",
+        "print(maestro['matricula'])\n",
+        "print(maestro['edad'])\n",
+        "print(maestro['sexo'])\n",
+        "print(maestro['carrera'])\n",
+        "print(maestro['telefono'])\n",
+        "print(maestro['domicilio'])\n",
+        "print(maestro['semestre'])\n",
+        "print(maestro['fecha de cumple anos'])"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "s6ZUb8Gb_mqm"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "doBtiSmw8tKH"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "XWs-4W-V4TC6"
+      }
+    }
+  ]
+}
